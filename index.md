@@ -1,4 +1,6 @@
-# Quest Engine
+---
+title: Quest Engine
+---
 
 - Andy Castille (kmn478)
 - Ian Solis (uxt408)
